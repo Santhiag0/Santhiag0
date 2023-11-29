@@ -1,11 +1,11 @@
 <h1 align="center">Hola Mundo! Yo soy Santiago</h1>
 <h3 align="center">"La mejor formma de vivir es programar... Y no discutir con nadie"</h3>
 
-- 📄 Sobre mi: [Soy un joven trabajador, un gran compañero de equipo y líder, me gusta aprender cosas nuevas, además de poder compartir mi experiencia y a su vez sumar nuevos conocimientos, destaco en el ámbito de ayudar y servir a los demás con una gran actitud, en especial me gusta mucho la tecnología, la administración y soy excelente hablando en público, estoy siempre dispuesto a aprender y colaborar.](Soy un joven trabajador, un gran compañero de equipo y líder, me gusta aprender cosas nuevas, además de poder compartir mi experiencia y a su vez sumar nuevos conocimientos, destaco en el ámbito de ayudar y servir a los demás con una gran actitud, en especial me gusta mucho la tecnología, la administración y soy excelente hablando en público, estoy siempre dispuesto a aprender y colaborar.)
+- 📄 Sobre mi: Soy un joven trabajador, un gran compañero de equipo y líder, me gusta aprender cosas nuevas, además de poder compartir mi experiencia y a su vez sumar nuevos conocimientos, destaco en el ámbito de ayudar y servir a los demás con una gran actitud, en especial me gusta mucho la tecnología, la administración y soy excelente hablando en público, estoy siempre dispuesto a aprender y colaborar.
 - Más detalle **Estoy aprendiendo y este es el inicio de una gran trayectoria...**
 - 🔭 Estudio Ing. en Software en UTA
 - 🌱 Actualmente continúo aprendiendo sobre varios campos y áreas.
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thiag0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiag0/" height="30" width="40" /></a>
