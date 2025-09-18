@@ -9,6 +9,7 @@
 </div>
 </div>
 
+https://colab.research.google.com/notebooks/intro.ipynb
 
 
 - 📄 Sobre mi: Soy un joven trabajador, un gran compañero de equipo y líder, me gusta aprender cosas nuevas, además de poder compartir mi experiencia y a su vez sumar nuevos conocimientos, destaco en el ámbito de ayudar y servir a los demás con una gran actitud, en especial me gusta mucho la tecnología, la administración y soy excelente hablando en público, estoy siempre dispuesto a aprender y colaborar.
